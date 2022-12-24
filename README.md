@@ -1,5 +1,5 @@
 ## **Hello! My name is Olga**
-![My photo](/../photo/picture.png)
+![My photo](/photo/picture.png)
 ### I stady in Netology.
 ### I like working.
 
